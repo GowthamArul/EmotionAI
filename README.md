@@ -34,11 +34,11 @@ To get the data set: https://drive.google.com/drive/folders/1BF1AMkfrgY6GLHVoElb
 • The second model will classify people’s emotion.
 • Data contains images that belong to 5 categories:
 
-o 0 = Angry
-o 1 = Disgust
-o 2 = Sad
-o 3 = Happy
-o 4 = Surprise
+0 = Angry
+1 = Disgust
+2 = Sad
+3 = Happy
+4 = Surprise
 
 ##NEURON MATHEMATICAL MODEL
 
