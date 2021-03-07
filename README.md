@@ -14,25 +14,25 @@ To get the data set: https://drive.google.com/drive/folders/1BF1AMkfrgY6GLHVoElb
 
 ## INTRODUCTION TO EMOTION AI
 
-• Artificial Emotional Intelligence or Emotion AI is a branch of AI that allow computers to understand human non-verbal cues such as body language and facial expressions.
+• Artificial Emotional Intelligence or Emotion AI is a branch of AI that allow computers to understand human non-verbal cues such as body language and facial expressions.<br>
 • Affectiva offers cutting edge emotion AI tech: https://www.affectiva.com/
 
 ## PROJECT OVERVIEW
 
-• The aim of this project is to classify people’s emotions based on their face images.
+• The aim of this project is to classify people’s emotions based on their face images.<br>
 • In this project we have collected more than 20000 facial images, with their associated facial expression labels and around 2000 images with their facial key-point annotations.
 
 ## PART 1. KEY FACIAL POINTS DETECTION
 
-• In part1, we will create a deep learning model based on Convolutional Neural Network and Residual Blocks to predict facial key-points.
-• dataset of x and y coordinates of 15 The consists facial key points.
-• Input Images are 96 x 96 pixels.
+• In part1, we will create a deep learning model based on Convolutional Neural Network and Residual Blocks to predict facial key-points.<br>
+• dataset of x and y coordinates of 15 The consists facial key points.<br>
+• Input Images are 96 x 96 pixels.<br>
 • Images consist of only one color channel (gray-scale images).
 
 ## PART 2. FACIAL EXPRESSION(EMOTION) DETECTION
 
-• The second model will classify people’s emotion.
-• Data contains images that belong to 5 categories:
+• The second model will classify people’s emotion.<br>
+• Data contains images that belong to 5 categories:<br>
 
 0 = Angry
 1 = Disgust
@@ -42,25 +42,25 @@ To get the data set: https://drive.google.com/drive/folders/1BF1AMkfrgY6GLHVoElb
 
 ## NEURON MATHEMATICAL MODEL
 
-• The brain has over 100 billion neurons communicating through electrical & chemical signals. Neurons communicate with each other and help us see, think, and generate ideas.
-• Human brain learns by creating connections among these neurons. ANNs are information processing models inspired by the human brain.
-• The neuron collects signals from input channels named dendrites, processes information in its nucleus, and then generates an output in a long thin branch called axon.
+• The brain has over 100 billion neurons communicating through electrical & chemical signals. Neurons communicate with each other and help us see, think, and generate ideas.<br>
+• Human brain learns by creating connections among these neurons. ANNs are information processing models inspired by the human brain.<br>
+• The neuron collects signals from input channels named dendrites, processes information in its nucleus, and then generates an output in a long thin branch called axon.<br>
 
 y=f(x1w1+x2w2+x3w3+b)
 
 ### EXAMPLE
 
-• Bias allows to shift the activation function curve up or down.
-• Number of adjustable parameters = 4 (3 weights and 1 bias).
+• Bias allows to shift the activation function curve up or down.<br>
+• Number of adjustable parameters = 4 (3 weights and 1 bias).<br>
 • Activation function “F”.
 
 ## MULTI-LAYER PERCEPTRON NETWORK
 
-• Let’s connect multiple of these neurons in a multi-layer fashion.
-• The more hidden layers, the more “deep” the network will get.
+• Let’s connect multiple of these neurons in a multi-layer fashion.<br>
+• The more hidden layers, the more “deep” the network will get.<br>
 
 To Play with Neural Network methodology :- https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.66088&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
-
+<br>
 3 Types of  Neural Network in Deep Learning Atricle :- https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 
 2D Visualization : https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
