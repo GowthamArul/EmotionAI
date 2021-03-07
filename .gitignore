@@ -1,0 +1,10 @@
+augmented.csv
+data.csv
+icml_face_data.csv
+test.csv
+training.csv
+weights.h5
+weights.hdf5
+weights_emotion.hdf5
+weights_emotions.hdf5
+weights_keypoint.hdf5
